@@ -1,0 +1,8 @@
+Best Score: 0.38197027183193677
+Best Hyperparameters: {'n_estimators': 301, 'learning_rate': 0.03833264158265438, 'max_depth': 15, 'subsample': 0.7520606396178056, 'reg_alpha': 0.00020055741818751941, 'reg_lambda': 8.369575994578815}
+Best Score: 0.41959159638090365
+Best Hyperparameters: {'n_estimators': 450, 'learning_rate': 0.05550171141637433, 'max_depth': 17, 'subsample': 0.8666006131372908, 'reg_alpha': 0.00440553775146074, 'reg_lambda': 0.2848086109003768}
+Best Score: 0.5528226079485024
+Best Hyperparameters: {'n_estimators': 454, 'learning_rate': 0.042842836293564134, 'max_depth': 8, 'subsample': 0.7648142434138875, 'reg_alpha': 0.011907743212013669, 'reg_lambda': 0.43735799162381206}
+Best Score: 0.6184773720943945
+Best Hyperparameters: {'n_estimators': 294, 'learning_rate': 0.04587271404034135, 'max_depth': 18, 'subsample': 0.9652482816685973, 'reg_alpha': 0.0046030895408958284, 'reg_lambda': 7.695301044950969}

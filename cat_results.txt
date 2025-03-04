@@ -1,0 +1,6 @@
+Best Score: 0.42121559941168957
+Best Hyperparameters: {'iterations': 1900, 'learning_rate': 0.07120124781508984, 'depth': 8, 'l2_leaf_reg': 0.004021591793859384, 'random_strength': 8.664790711563663, 'bagging_temperature': 0.4116787280195324, 'border_count': 244}
+Best Score: 0.5497790912292422
+Best Hyperparameters: {'iterations': 2000, 'learning_rate': 0.08105310053461807, 'depth': 8, 'l2_leaf_reg': 0.001848250825613445, 'random_strength': 5.579988905420283, 'bagging_temperature': 0.6376002092348243, 'border_count': 230}
+Best Score: 0.5986032423756523
+Best Hyperparameters: {'iterations': 2000, 'learning_rate': 0.08106050951607952, 'depth': 8, 'l2_leaf_reg': 0.0002866142899694213, 'random_strength': 9.580995057709798, 'bagging_temperature': 0.0016040802675406363, 'border_count': 240}
