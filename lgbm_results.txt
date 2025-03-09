@@ -8,3 +8,7 @@ Best Score: 0.5060095658317347
 Best Hyperparameters: {'learning_rate': 0.05067388684507457, 'max_depth': 12, 'num_leaves': 101, 'min_data_in_leaf': 57, 'feature_fraction': 0.8332841846984342, 'bagging_fraction': 0.6763976411576638, 'bagging_freq': 6, 'lambda_l1': 0.01623015719021112, 'lambda_l2': 4.024086212232406, 'n_estimators': 943}
 Best Score: 0.6080297531628484
 Best Hyperparameters: {'learning_rate': 0.169239542541939, 'max_depth': 18, 'num_leaves': 193, 'min_data_in_leaf': 1, 'feature_fraction': 0.884598727869354, 'bagging_fraction': 0.968163192769718, 'bagging_freq': 4, 'lambda_l1': 0.002216133238698419, 'lambda_l2': 20.468386398402263, 'n_estimators': 948}
+Best Score: 0.7035555309616939
+Best Hyperparameters: {'learning_rate': 0.06707777464457283, 'max_depth': 14, 'num_leaves': 163, 'min_data_in_leaf': 6, 'feature_fraction': 0.8113538442655694, 'bagging_fraction': 0.9415394825188922, 'bagging_freq': 0, 'lambda_l1': 0.005401727941119948, 'lambda_l2': 35.93364802351814, 'n_estimators': 1179}
+Best Score: 0.7082798641856001
+Best Hyperparameters: {'learning_rate': 0.049306462164681195, 'max_depth': 12, 'num_leaves': 145, 'min_data_in_leaf': 8, 'feature_fraction': 0.8758609827849215, 'bagging_fraction': 0.24707848190077422, 'bagging_freq': 0, 'lambda_l1': 0.0029913663437004133, 'lambda_l2': 6.191482291982284, 'n_estimators': 1318}
