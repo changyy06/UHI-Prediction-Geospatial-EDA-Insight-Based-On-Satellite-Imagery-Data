@@ -6,3 +6,5 @@ Best Score: 0.4453222609921352
 Best Hyperparameters: {'n_estimators': 1999, 'max_depth': 29, 'min_samples_split': 6, 'min_samples_leaf': 2, 'max_features': 'sqrt'}
 Best Score: 0.4599279066247545
 Best Hyperparameters: {'n_estimators': 509, 'max_depth': 17, 'min_samples_split': 4, 'min_samples_leaf': 2, 'max_features': 'sqrt'}
+Best Score: 0.5787464628309615
+Best Hyperparameters: {'n_estimators': 713, 'max_depth': 29, 'min_samples_split': 4, 'min_samples_leaf': 2, 'max_features': 'log2'}
