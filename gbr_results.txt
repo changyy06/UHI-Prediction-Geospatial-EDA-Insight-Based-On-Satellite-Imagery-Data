@@ -7,4 +7,4 @@ Best Hyperparameters: {'learning_rate': 0.022517508539963916, 'n_estimators': 16
 Best Score: 0.6762516645400597
 Best Hyperparameters: {'learning_rate': 0.022517508539963916, 'n_estimators': 1662, 'subsample': 0.953637195394619, 'min_samples_split': 10, 'min_samples_leaf': 3, 'max_depth': 12}
 Best Score: 0.73780235373911
-Best Hyperparameters:{'learning_rate': 0.02706816297254946, 'n_estimators': 1757, 'subsample': 0.8148385854859647, 'min_samples_split': 16, 'min_samples_leaf': 8, 'max_depth': 14}
+Best Hyperparameters: {'learning_rate': 0.02706816297254946, 'n_estimators': 1757, 'subsample': 0.8148385854859647, 'min_samples_split': 16, 'min_samples_leaf': 8, 'max_depth': 14}
