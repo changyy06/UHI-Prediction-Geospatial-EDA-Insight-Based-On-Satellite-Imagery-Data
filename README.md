@@ -69,6 +69,14 @@ You can find all visualizations [here](images/)
   ![UHI Quadrants](images/uhi_quad.png)  
   **Observation:** Divides the study area into quadrants based on UHI intensity levels.  
   **Insight:** This segmentation helps in pinpointing extreme heat areas for focused cooling strategies.
-
-
+<br></br>
+## Submissions
+1. Ensemble Method (R2: 0.8002)
+2. Multilayer Perceptron (R2: 0.6947)
+3. Transformers (R2: 0.6139)
+<br></br>
+## Suggested Improvements
+- Putting more efforts into Feature Engineering
+- Experiments with different Model Architectures
+- Research on different Data Preprossing method
 
